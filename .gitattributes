@@ -1,0 +1,7 @@
+# Normalize line endings for a cross-platform contribution
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.ps1 text eol=lf
+*.patch text eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf

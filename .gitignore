@@ -1,0 +1,18 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Local patched binaries: NEVER commit these, they contain official baked-in credentials
+*_patched.exe
+*-patched.exe
+PCL2_CE*.exe
+!binary-patch/patch.cmd
+
+# IDE / OS noise
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
