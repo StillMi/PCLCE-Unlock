@@ -1,5 +1,7 @@
 # PCLCE Unlock
 
+[中文](README.md) | [English](README.en.md)
+
 解除 **PCL 社区版**（Plain Craft Launcher Community Edition，PCL-CE）在中国大陆地区
 对 **Minecraft 下载 / 文件补全 / 版本安装 / 整合包安装** 的封锁。
 
